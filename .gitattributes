@@ -1,0 +1,5 @@
+# Set C# as language for .cs files
+*.cs linguist-language=C#
+
+# Exclude all files with .shader extension from ShaderLab detection
+*.shader linguist-detectable=false
